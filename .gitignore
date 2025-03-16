@@ -15,3 +15,10 @@ jobs.json
 __pycache__
 langgraph.json
 cv_temp.pdf
+.DS_Store
+node_modules
+*.DS_Store
+logs/*
+*.log
+gitleaks-report.txt
+*.json
