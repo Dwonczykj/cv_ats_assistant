@@ -1,0 +1,17 @@
+cv_ats_assistant_venv/
+screenshots/
+page_source/
+job_posts/
+
+.env
+*.gif
+*.db-wal
+*.db-shm
+*.db-journal
+*.db*
+cache
+jobs.csv
+jobs.json
+__pycache__
+langgraph.json
+cv_temp.pdf
