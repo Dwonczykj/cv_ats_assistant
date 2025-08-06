@@ -245,7 +245,7 @@ torchaudio==2.5.1
 torchvision==0.20.1
 tqdm==4.67.1
 trafilatura==2.0.0
-transformers==4.46.3
+transformers==4.53.0
 trio==0.28.0
 trio-websocket==0.11.1
 typer==0.15.1
