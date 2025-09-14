@@ -180,7 +180,7 @@ preshed==3.0.9
 promptwatch==0.4.5
 propcache==0.2.1
 proto-plus==1.25.0
-protobuf==5.29.3
+protobuf==5.29.5
 psutil==5.7.2
 pyasn1==0.6.1
 pyasn1_modules==0.4.1
