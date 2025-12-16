@@ -44,7 +44,7 @@ faiss-cpu==1.9.0.post1
 fastapi==0.115.6
 fastavro==1.10.0
 ffmpy==0.5.0
-filelock==3.16.1
+filelock==3.20.1
 filetype==1.2.0
 fireworks-ai==0.15.12
 flatbuffers==24.12.23
