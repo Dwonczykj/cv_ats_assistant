@@ -90,7 +90,7 @@ langchain-aws==0.2.11
 langchain-chroma==0.1.4
 langchain-cohere==0.3.4
 langchain-community==0.3.14
-langchain-core==0.3.31
+langchain-core==0.3.81
 langchain-experimental==0.3.4
 langchain-fireworks==0.2.6
 langchain-google-genai==2.0.8
