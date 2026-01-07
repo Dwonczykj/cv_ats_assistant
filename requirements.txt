@@ -131,7 +131,7 @@ marisa-trie==1.2.1
 markdown-it-py==3.0.0
 markdownify==0.14.1
 MarkupSafe==2.1.5
-marshmallow==3.25.0
+marshmallow==3.26.2
 mdurl==0.1.2
 memory-profiler==0.61.0
 mmh3==5.0.1
