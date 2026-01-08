@@ -97,7 +97,7 @@ langchain-google-genai==2.0.8
 langchain-huggingface==0.1.2
 langchain-ollama==0.2.2
 langchain-openai==0.3.1
-langchain-text-splitters==0.3.4
+langchain-text-splitters==0.3.9
 langchainhub==0.1.21
 langcodes==3.5.0
 langgraph==0.2.60
